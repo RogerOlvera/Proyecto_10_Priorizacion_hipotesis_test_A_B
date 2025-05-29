@@ -35,8 +35,8 @@ Priorizar las hipótesis y analizar los resultados de la prueba A/B aplicada par
 
 ## :computer: **Frameworks de priorización de hipótesis utilizados**
 
-* ICE
-* RICE
+:diamond_shape_with_a_dot_inside: ICE
+:diamond_shape_with_a_dot_inside: RICE
 
 ## :pencil: **Notas Adicionales**
 
