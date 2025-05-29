@@ -1,39 +1,44 @@
-# Proyecto_10_Priorizacion_hipotesis_test_A_B
- 
-## **Data Analyst: priorización de hipótesis y test A/B para tienda en linea.**
+# **Proyecto_10_Priorizacion_hipotesis_test_A_B**
 
-## **Descripción del proyecto**
+## :bookmark_tabs: **Descripción del proyecto**
 
 Eres analista en una gran tienda online. Junto con el departamento de marketing has recopilado una lista de hipótesis que pueden ayudar a aumentar los ingresos.
 
 Tienes que priorizar estas hipótesis, lanzar un test A/B y analizar los resultados.
 
-## **Objetivo**
+## :dart: **Objetivo**
 
 Priorizar las hipótesis y analizar los resultados de la prueba A/B aplicada para soportar la toma de decisión del negocio. 
 
-## **Librerías utilizadas**
+## :clipboard: **Etapas**
 
-* pandas
-* numpy
-* scipy
-* matplotlib
-* datetime
+- Revisión y análisis de los datasets
+- Priorización de hipótesis
+- Análisis test A/B
+- Conclusiones de la prueba.
 
-## **Descripción de los archivos**
+## :computer: **Librerías utilizadas**
 
-1. **data**: Carpeta que contiene los archivos de datos.
-2. **hypothesis.csv**: Contiene las hipótesis a priorizar.
-3. **ab_data.csv**: Contiene los resultados de la prueba A/B.
-4. **project_10.ipynb**: Notebook donde se desarrolla el análisis.
-5. **README.md**: Este archivo con la descripción del proyecto.
+:diamond_shape_with_a_dot_inside: pandas
 
-## Frameworks de priorización de hipótesis utilizados**
+:diamond_shape_with_a_dot_inside: numpy
+
+:diamond_shape_with_a_dot_inside: scipy import stats
+
+:diamond_shape_with_a_dot_inside: matplotlib import pyplot
+
+:diamond_shape_with_a_dot_inside: datetime
+
+:diamond_shape_with_a_dot_inside: seaborn
+
+:diamond_shape_with_a_dot_inside: math import factorial
+
+## :computer: **Frameworks de priorización de hipótesis utilizados**
 
 * ICE
 * RICE
 
-## **Notas**
+## :pencil: **Notas Adicionales**
 
-- Se recomienda ejecutar el notebook en orden para obtener los resultados esperados.
-- El análisis se ha realizado utilizando Python 3.x y las librerías mencionadas anteriormente.
+:diamond_shape_with_a_dot_inside: Link Jupyter Notebook: https://github.com/RogerOlvera/Proyecto_10_Priorizacion_hipotesis_test_A_B/blob/main/sptrint_10_proyecto_evaluado.ipynb
+
